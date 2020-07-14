@@ -53,7 +53,6 @@ h2{font-size: 32px;}
     margin-right: 0%;
      margin-top: -12px;
 }
-.project-section{height: 90vh;}
 .project-para{margin-bottom: 10px;}
 .about-me{font-size: 22px;}
  .skills{font-size: 25px;}   
@@ -94,7 +93,6 @@ footer li{
 .btn{font-size: 17px;}
 
 h2{ margin-left: 35%;}
-.project-section{height: 145vh;}
 .project-pic{width: 70%; margin-left: 15%;}
 .project-bottom{margin-left: 15%; margin-right: 15%;}
 .about-me{
@@ -179,7 +177,6 @@ h2{ margin-left: 32%;font-size: 27px;}
     font-size: 15px;
     margin-bottom: 10px;   
 }
-.project-section{height: 115vh;}
 .profiles{
     width: 0%;
 }    
@@ -257,7 +254,6 @@ h2{ margin-left: 31%;font-size: 25px;}
     font-size: 17px;}
 .project-pic{width: 80%; margin-left: 10%;}
 .link{font-size: 17px;}
-.project-section{height: 115vh;}
 .about-me{
     font-size: 18px;}
  .skills{
@@ -330,7 +326,6 @@ h2{ margin-left: 27%;font-size: 25px;}
     width: 115%;
     height: 150px;
 }
-.project-section{height: 110vh;}
 footer{
     padding: 15px;
 }        
@@ -384,8 +379,7 @@ h2{ margin-left: 27%;font-size: 20px;}
 .message{
     width: 115%;
     height: 120px;
-}   
-.project-section{height: 105vh;}    
+}      
 footer li a{
     font-size: 10px;
 } 

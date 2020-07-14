@@ -166,7 +166,7 @@ h2{
     background-size: cover;
     background-position: center center;
     background-attachment: fixed;
-    height: 100vh;
+    height: auto;
 }
 .project-pic{
     width: 80%;
