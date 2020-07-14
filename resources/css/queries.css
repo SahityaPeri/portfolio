@@ -1,0 +1,405 @@
+@media only screen and (max-width:1125px){
+    section{
+    padding: 50px;
+}
+ html,body{font-size: 20px;}
+.intro{
+    font-size: 55px;
+    margin-top: 17%;
+}
+.intro-class{font-size: 60px;}
+.intros{font-size: 30px;}
+.btn{
+    line-height: 450%;
+    padding: 8px;
+}
+h2{font-size: 32px;}
+.small-icon{font-size: 45px;}
+.para{
+     margin-left: 6%;
+     margin-right: 5%;
+     font-size: 25px;
+     line-height: 130%;
+}
+.project-para{
+    margin-bottom: 5px;
+    font-size: 19px;
+}
+.link{line-height: 200%;}      
+.about-me{font-size: 25px;}
+.skills{font-size: 30px;}   
+ .skill{font-size: 23px;  } 
+ .form-messages{font-size: 20px;} 
+ footer li{margin-left: 120px;}  
+}
+
+@media only screen and (max-width:1024px){
+ section{padding: 47px;}
+.intro{
+    font-size: 45px;
+    margin-top: 19%;
+}
+.intro-class{font-size: 57px;}
+.intros{font-size: 30px;}
+.heading,.headings{font-size: 45px;}  
+.para{
+      margin-left: 6%;
+      margin-right: 6%;
+      font-size: 20px;
+     line-height: 140%;
+}
+.project-pic{width: 90%;}
+.project-bottom{
+    margin-right: 0%;
+     margin-top: -12px;
+}
+.project-section{height: 90vh;}
+.project-para{margin-bottom: 10px;}
+.about-me{font-size: 22px;}
+ .skills{font-size: 25px;}   
+ .skill{font-size: 20px;  } 
+ .form-messages{font-size: 17px;}   
+.message{width: 160%;}
+.location{font-size: 17px;}
+.number{font-size: 15px;}
+.location-main{margin-top: 12%;}
+.name{width: 39%;}    
+.subject{width: 78.5%; }   
+footer{
+    padding: 25px;
+}
+footer li{
+    margin-left: 110px;
+}   
+}
+
+@media only screen and (max-width: 768px){
+    body{font-size:16px;}
+    section{padding: 30px 0;}
+    .row{padding: 0 4%;}
+    .col{width:100%;
+         margin: 0 0 4% 0;
+    }
+ .nav-list a{font-size: 20px;margin-left: -80px;}
+ .nav-list li{margin-top: 5%;} 
+.intro{
+    font-size: 35px;
+    margin-top: 20%;
+}
+    .intro-class{
+        font-size: 40px;}
+.intros{ 
+    font-size: 20px;
+} 
+.btn{font-size: 17px;}
+
+h2{ margin-left: 35%;}
+.project-section{height: 145vh;}
+.project-pic{width: 70%; margin-left: 15%;}
+.project-bottom{margin-left: 15%; margin-right: 15%;}
+.about-me{
+    font-size: 19px;}
+ .skills{
+     font-size: 20px;}   
+ .skill{
+     font-size: 16px;  } 
+.profiles{
+    width: 40%;
+    margin-right: 0px;
+    margin-top: -7%;;
+}    
+.main-para{font-size: 30px;}   
+ .form-messages{
+    font-size: 14px;
+}   
+.message{
+    height: 200px;
+    width: 110%;
+    margin-left: -5%;
+}
+.location{
+    font-size: 0px;
+}
+.number{font-size:0px;}
+.location-main{margin-top: -7%;}
+.name{width: 49.5%;}       
+.subject{width: 100%;}
+.send-msg{font-size: 20px;}
+footer li{
+    margin-left: 60px;
+}                   
+ .copyright,
+.copyright-logo{
+    margin-left: 25%;
+}
+}
+
+
+
+@media only screen and (max-width: 480px){
+ .nav-list a{
+    margin-left: -80px;
+    font-size: 15px;
+    margin-right: 2px; 
+}
+.intro{
+     margin-left: 15%;
+    font-size: 35px;
+    margin-top: 23%;
+}
+    .intro-class{
+        font-size: 27px;}
+.intros{
+     margin-left: 15%;
+    font-size: 17px;
+} 
+    header{
+        background-position: right;
+        height: 65vh;
+    }
+.btn{font-size: 15px; margin-left:34%;}   
+.heading,
+.headings{
+     font-size: 35px;
+    }
+.heading:after,
+.headings:after{
+       width: 100px;
+    margin-top: 2px;
+    margin-left: 42%;
+}
+h2{ margin-left: 32%;font-size: 27px;}
+.project-pic{width: 80%; margin-left: 10%;}
+.project-bottom{
+     margin-left: 10%;
+     margin-right: 10%;
+     margin-top: -7px;
+}
+.project-para{
+    font-size: 15px;
+    margin-bottom: 10px;   
+}
+.project-section{height: 115vh;}
+.profiles{
+    width: 0%;
+}    
+.about-me{
+    font-size: 18px;}
+ .skills{
+     font-size: 24px;}   
+ .skill{
+     font-size: 17px;  } 
+.about{
+    padding-bottom: 50px;
+}
+ .form-messages{
+    font-size: 17px;
+     width: 90%;}
+.message{
+    width: 108%;   
+}
+
+.location-main{
+    margin-top: -10%;
+}
+.name{
+    width: 49%;
+      height: 40px;
+}    
+.subject{width: 98.5%;height: 40px; }   
+    .send-msg{font-size: 15px;line-height: 300%;} 
+footer li{
+    margin-left: 7px;
+    font-size: 7px;
+}.copyright,
+.copyright-logo{
+    margin-left: 10%;
+        font-size: 12px;
+} 
+    
+}
+
+
+
+@media only screen and (max-width: 425px){
+.nav-list a{
+    margin-left: -70px;
+    font-size: 15px;
+    margin-right: -7px; 
+}
+.intro{
+     margin-left: 7%;
+    font-size: 35px;
+    margin-top: 23%;
+}
+.intro-class{font-size: 35px;}
+.intros{
+     margin-left: 7%;
+    font-size: 20px;
+}     
+.heading,
+.headings{
+     font-size: 30px;
+    }    
+.heading:after,
+.headings:after{
+       width: 90px;
+    margin-top: 2px;
+    margin-left: 40%;
+} 
+    
+h2{ margin-left: 31%;font-size: 25px;}
+.small-icon{
+    margin-left: 46%;
+    font-size: 30px;
+}
+.para{
+    font-size: 17px;}
+.project-pic{width: 80%; margin-left: 10%;}
+.link{font-size: 17px;}
+.project-section{height: 115vh;}
+.about-me{
+    font-size: 18px;}
+ .skills{
+     font-size: 24px;}   
+ .skill{
+     font-size: 17px;margin-left: 5%;} 
+.about{
+    padding-bottom: 50px;
+}
+ .form-messages{
+    font-size: 15px;
+     width: 95%;}
+.message{
+    width: 115%;
+    height: 170px;
+}
+.name{
+    width: 105%;
+    height: 40px;
+}    
+.subject{width: 105%;height: 40px; }   
+}
+
+
+
+
+
+@media only screen and (max-width: 375px){
+.nav-list a{
+    margin-left: -50px;
+}
+.intro{
+     margin-left: 7%;
+    font-size: 27px;
+    margin-top: 25%;
+}
+.intro-class{font-size: 30px;}
+.intros{
+     margin-left: 7%;
+    font-size: 17px;
+} 
+.btn{font-size: 13px; margin-left:30%;}   
+.heading,
+.headings{
+     font-size: 27px;
+    }    
+.heading:after,
+.headings:after{
+       width: 70px;
+    margin-top: 2px;
+    margin-left: 41%;
+}
+h2{ margin-left: 27%;font-size: 25px;}
+.project-pic{width: 100%; margin-left: 0%;}
+.project-bottom{
+     margin-left: 0%;
+     margin-right: 0%;
+}
+.link{font-size: 15px;}
+.about-me{
+    font-size: 16px;}
+ .skills{
+     font-size: 20px;}   
+ .skill{
+     font-size: 15px;margin-left: 5%;} 
+ .form-messages{
+    font-size: 15px;
+     width: 97%;}
+.message{
+    width: 115%;
+    height: 150px;
+}
+.project-section{height: 110vh;}
+footer{
+    padding: 15px;
+}        
+.copyright,
+.copyright-logo{
+    margin-left: 10%;
+    margin-top: 15px;
+        font-size: 10px;;
+}                     
+footer li a{
+    font-size: 12px;
+} 
+}
+
+
+
+@media only screen and (max-width: 320px){
+ .nav-list a{
+    margin-left: -40px;
+}
+.intro{
+     margin-left: 7%;
+    font-size: 22px;
+    margin-top: 32%;
+}
+.intros{
+     margin-left: 7%;
+    font-size: 15px;
+} 
+.btn{font-size: 13px; margin-left:30%;}   
+.heading,.headings{
+     font-size: 25px;
+    }    
+.heading:after,
+.headings:after{
+     width: 50px;
+    margin-top: 2px;
+    margin-left: 42%;
+}
+h2{ margin-left: 27%;font-size: 20px;}
+
+.about-me{
+    font-size: 13px;}
+ .skills{
+     font-size: 15px;}   
+ .skill{
+     font-size: 13px;margin-left: 5%;} 
+ .form-messages{
+    font-size: 13px;
+     width: 100%;}
+.message{
+    width: 115%;
+    height: 120px;
+}   
+.project-section{height: 105vh;}    
+footer li a{
+    font-size: 10px;
+} 
+.copyright,
+.copyright-logo{
+    margin-left: 5%;
+    margin-top: 10px;
+    font-size: 10px;;
+} 
+}
+
+
+
+
+
+
+
