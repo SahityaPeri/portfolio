@@ -273,6 +273,7 @@ h2{
     width: 150%;
     height: 300px;
     padding: 10px;
+    font-family:Alegreya Sans ;
 }
 ::-webkit-input-placeholder{
     font-size: 20px;
@@ -282,6 +283,7 @@ h2{
 }
 ::placeholder{
     font-size: 20px;
+    font-family:Alegreya Sans SC ;
 }
 .name{
     font-size:20px;
@@ -289,6 +291,7 @@ h2{
     height: 50px;
     padding: 10px;
     margin-bottom: 2%;
+    font-family:Alegreya Sans ;
 }
 .location{
     font-size: 20px;
@@ -303,6 +306,7 @@ h2{
     height: 50px;
     padding: 10px;
     margin-bottom: 2%; 
+    font-family:Alegreya Sans ;
 }
 .send-msg{
     font-size: 25px;
