@@ -316,7 +316,8 @@ h2{
     letter-spacing: 3px;
     color:  #2A1B3D;
     -webkit-box-shadow: 0px 2px 6px #7e7e7e;
-    box-shadow: 0px 2px 6px #7e7e7e;
+    box-shadow: 2px 2px 6px #7e7e7e;
+    cursor: pointer;
 }
 
 .form-messages{

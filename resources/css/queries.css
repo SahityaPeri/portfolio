@@ -173,7 +173,7 @@ h2{ margin-left: 32%;font-size: 27px;}
       height: 40px;
 }    
 .subject{width: 105.5%;height: 40px; }   
-.send-msg{font-size: 15px;line-height: 300%;} 
+.send-msg{font-size: 15px;} 
 footer li{
     margin-left: 7px;
     font-size: 7px;
@@ -306,6 +306,7 @@ footer{padding: 15px;}
 }  
  footer li{margin-left: 15px;}
 footer li a{font-size: 12px;} 
+.main-para{font-size: 22px;}
 }
 
 

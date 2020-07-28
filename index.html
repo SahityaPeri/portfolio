@@ -14,6 +14,8 @@
       <link rel="stylesheet" href="https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css">
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.0.0/animate.min.css">
       <link rel="icon" href="resources/img/logo-removebg-preview.png">
+    <script  src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.19.2/axios.min.js" ></script>
+      <script src="resources/js/contact.js" ></script>
     <title>Sahitya Peri</title>
     </head>
     <body>
@@ -68,7 +70,7 @@
             <div class="col span-1-of-2 project-back">
             <img src="resources/img/Capture1.PNG" class="project-pic" alt="Smart Quiz">
             <div class="project-bottom">
-            <p class="project-para">This a website theme for a smart quiz maker which enable usrs to create and share quizzes to play with. Designing web pages for this site was very enthusiastic and enjoyable.</p>
+            <p class="project-para">This is a website theme for a smart quiz maker which enable users to create and share quizzes to play with. Designing web pages for this site was very enthusiastic and enjoyable.</p>
             <a href="https://smartquizmaker.herokuapp.com/" class="link">Click here</a> </div> 
             </div>
             </div>
@@ -90,29 +92,24 @@
             <p class="main-para">Get in Touch</p> 
            
                
-           <!-- <div class="form-messages success">
-                Thank you! Your message has been sent.
-            </div>
-            <div class="form-messages error">
-                Oops! Something went wrong.Please try again!
-            </div> -->
+          
   
             <div class="row"> 
              <form method="post" class="form-post"> 
            
             <div class="row">
             <div class="col span-1-of-2">
-             <textarea placeholder="Enter message" class="message" id="message"></textarea>    
+             <textarea placeholder="Enter message" class="message" id="message" required></textarea>    
                 </div>
             <div class="col span-1-of-2 location-main">
              <i class="ion-ios-home location">&nbsp;  Rajahmundry <span class="number">533101</span></i>
                 </div>
                 </div>
-            <input placeholder="Enter your name" class="name"  >
-             <input placeholder="Enter your email" class="name" ><br>
-            <input placeholder="Enter subject" class="subject"  >   <br>  
+            <input placeholder="Enter your name" class="name" id="name" required>
+             <input placeholder="Enter your email" class="name" id="email" type="email" required> <br>
+            <input placeholder="Enter subject" class="subject" id="subject" required>   <br>  
            
-            <a href="#" class="send-msg">Send message</a>
+            <button class="send-msg">Send message</button>
            </form>
                 </div>
            </div>
